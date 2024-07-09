@@ -2,11 +2,4 @@
 
 Something about my skills:
 
-✔️ Advanced knowledge: C#,.NET, Asp.Net, SQL, HTML, CSS.
-
-✔️Basic knowledge: Python, Java, JavaScript, Bootstrap.
-
-✔️ Experience with: Git, Docker, MS SQL, MySQL, PostgreSQL, MongoDB.
-
-🔖 And is interested in EVERYTHING in the field of information technology.
-
+✔️ I use it in my work: С#, ASP.NET core, JavaScript, SQL (PostgreSQL, Clickhouse), Git, gRPC, HTML, CSS   
